@@ -8,16 +8,16 @@ h1 {
   margin: auto;
 }
 
-a{
-  text-decoration: none;
-  color: black;
-}
-
 h2 {
   font-family: Helvetica, Arial, sans-serif;
   text-align: center;
   color: black;
   margin: auto;
+}
+
+a{
+  text-decoration: none;
+  color: black;
 }
 
 p {
@@ -31,7 +31,6 @@ img {
 .module {
   float: left;
 }
-
 
 #hero {
   width: 630px;
@@ -48,7 +47,6 @@ img {
 }
 
 footer {
-  /*clear: both;*/
   text-align: center;
   margin-top: 50px;
 }
