@@ -1,0 +1,55 @@
+body {
+  background-color: #778899;
+}
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: black;
+  margin: auto;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: black;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+}
+
+.module {
+  float: left;
+}
+
+
+#hero {
+  width: 630px;
+  margin: auto;
+}
+
+#hero img {
+  width: 630px;
+}
+
+.container_12 {
+  margin: auto;
+  width: 1200px;
+}
+
+footer {
+  /*clear: both;*/
+  text-align: center;
+  margin-top: 50px;
+}
+
