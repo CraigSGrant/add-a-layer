@@ -1,4 +1,3 @@
-/*Theme*/
 body {
   background-color: #778899;
 }
@@ -10,7 +9,11 @@ body {
   margin: auto;
 }
 
-a{
+#portrait {
+  width: 400px;
+}
+
+a {
   text-decoration: none;
   color: black;
 }
@@ -27,3 +30,5 @@ footer {
 .email{
   font-style: italic;
 }
+
+
