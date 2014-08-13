@@ -1,14 +1,9 @@
+/*Theme*/
 body {
   background-color: #778899;
 }
-h1 {
-  font-family: Helvetica, Arial, sans-serif;
-  text-align: center;
-  color: black;
-  margin: auto;
-}
 
-h2 {
+.header {
   font-family: Helvetica, Arial, sans-serif;
   text-align: center;
   color: black;
@@ -24,20 +19,7 @@ p {
   text-align: center;
 }
 
-.bio {
-  width: 300px;
-  display: block;
-  margin: 0 auto;
-}
-
-#portrait {
-  display: block;
-  width: 400px;
-  margin: 0 auto;
-}
-
 footer {
   text-align: center;
   margin-top: 50px;
 }
-
